@@ -1,0 +1,23 @@
+h1{
+	color: #1D60E8;
+	text-align: center;
+}
+.color1{
+	border: 2px	#E81D1D	dashed;
+}
+.color2{
+	border: 2px	#ECE810	dashed;
+}
+.color3{
+	border: 2px	#D510EC	dashed;
+}
+.color4{
+	border: 2px	#EC8810	dashed;
+}
+img{
+	border: 3px	#10ECDB	solid;
+	width: 20%;
+}
+body{
+	background-color: #C4D9F9;
+}
