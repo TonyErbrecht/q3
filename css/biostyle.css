@@ -1,3 +1,17 @@
+.wrapper{
+	max-width: 80%;
+	margin: 0	auto;
+	background-color: #A5F7F2;
+	padding: 20px;
+	border: 3px	black	solid;
+
+}
+section{
+	padding: 10px;
+	padding-left: 50px;
+	border: 2px	solid;
+	margin: 10px;
+}
 h1{
 	text-align: center;
 	color: #16B216;
@@ -6,7 +20,7 @@ h3{
 	color: #1651B2;
 }
 body{
-	background-color: #A5F7F2;
+	background-color: #D3DAE7;
 }
 img{
 	width: 30%;
@@ -17,4 +31,24 @@ img{
 
 .studentpara{
 	color: red;
+}
+footer{
+	text-align: center;
+}
+
+.section1 {
+	background-color: #31ED5C;
+}
+
+.section2{
+	background-color: #B75FF4;
+	
+}
+.section3{
+	background-color: #A0B7F3;
+	
+}
+.section4{
+	background-color: #F99494;
+	
 }

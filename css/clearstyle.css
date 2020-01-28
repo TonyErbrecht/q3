@@ -1,0 +1,23 @@
+.wrapper{
+	max-width: 80%;
+	margin: 0	auto;
+	background-color: red;
+}
+img{
+	max-width: 60%;
+	float: left;
+	border: 4px	solid	black;
+	
+}
+h1{
+	background-color: blue;
+	padding: 10px;
+	
+}
+.clearfix:after{
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
