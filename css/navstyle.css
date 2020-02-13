@@ -25,7 +25,7 @@ article{
 }
 h2{
 	color: blue;
-	font-size: 40px;
+	font-size: 24px;
 }
 .article1{
 	float: left;
@@ -42,9 +42,10 @@ h2{
 }
 nav{
 	border-bottom: 3px	black	solid;
+	text-align: center;
 }
 .article2{
-	float: right;
+	float: left;
 	width: 25%;
 }
 footer{
@@ -53,7 +54,11 @@ footer{
 	color: white;
 }
 .article3{
-	float: right;
+	float: left;
 	width: 25%;
 	padding-right: 50px;
+}
+
+a:hover{
+	font-size: 32px;
 }
