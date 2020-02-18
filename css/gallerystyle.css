@@ -1,0 +1,67 @@
+body{
+	background-color: #dedede;
+}
+.gallery{
+	display: flex;
+	width: 900px;
+	margin: auto;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+figure{
+	width: 200px;
+	margin: 8px 0;
+	border: 1px	solid	#777;
+	padding: 8px;
+	background-color: #fff;
+	box-sizing: border-box;
+}
+figure img{
+	width: 100%;
+}
+figure figcaption{
+	text-align: center;
+	padding: 8px 4px;
+}
+.solid-colour-blend {
+	width: 100%;
+	height: 300px;
+	background-color: #F05B6F;
+	background-image: url('../images/gallery/jamesharden.jpg');
+	background-position: center center;
+  background-blend-mode: multiply;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+ background-size: cover;
+  transition: 2s;
+  animation-timing-function:ease-in-out;
+}
+.filter{
+	display: flex;
+	width: 1000px;
+	margin: 0	auto;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+h1{
+	color: white;
+}
+.invert {
+  -webkit-filter: invert(.8);
+  filter: invert(.8);
+  width: 100%;
+	background-color: #F05B6F;
+	background-position: center center;
+  background-blend-mode: multiply;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+ background-size: cover;
+  transition: 2s;
+  animation-timing-function:ease-in-out;
+}
+.invert:hover{
+	-webkit-filter: invert(0);
+  filter: invert(0);
+}
