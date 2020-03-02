@@ -1,0 +1,165 @@
+body, html{
+	background-color: #fff4db;
+}
+.right {
+	float: right;
+}
+#painting {
+	background-color: #CEDBFA;
+    width: 500px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#toprow {
+	height: 50px;
+}
+.green {
+	background-color: green;
+}
+.black{
+	background-color: black;
+}
+#divider1 {
+	height: 15px;
+	width: 85px;
+}
+#divider2 {
+	height: 50px;
+	width: 15px;
+}
+#smallbox {
+	height: 50px;
+	width: 85px;
+}
+#tinybox {
+	height: 17.5px;
+	width: 85px;
+}
+#mediumbox {
+	height: 50px;
+	width: 85px;
+}
+#mediumbox2 {
+	height: 50px;
+	width: 235px;
+}
+.white {
+	background-color: white;
+}
+#divider3 {
+	height: 50px;
+	width: 15px;
+}
+#divider4 {
+	height: 50px;
+	width: 15px;
+}
+#longdivider {
+	height: 15px;
+	width: 500px;
+}
+.blue {
+	background-color: blue;
+}
+#largebox {
+	height: 185px;
+	width: 435px;
+}
+#divider5 {
+	height: 185px;
+	width: 15px;
+}
+#divider6 {
+	height: 15px;
+	width: 450px;
+}
+.red {
+	background-color: red;
+}
+#bigbox {
+	height: 235px;
+	width: 185px;
+}
+#divider7 {
+	height: 235px;
+	width: 15px;
+}
+#bigbox2 {
+	height: 235px;
+	width: 235px;
+}
+#smallbox2 {
+	height: 120px;
+	width: 235px;
+}
+#divider8 {
+	height: 15px;
+	width: 235px;
+}
+#smallbox3 {
+	height: 100px;
+	width: 235px;
+}
+.purple{
+	background-color: purple;
+}
+#tinybox2 {
+	height: 100px;
+	width: 105px;
+}
+#divider9 {
+	height: 235px;
+	width: 15px;
+}
+#divider10 {
+	height: 100px;
+	width: 15px;
+}
+#tinybox3 {
+	height: 100px;
+	width: 115px;
+}
+.yellow {
+	background-color: yellow;
+}
+.lightgreen {
+	background-color: lightgreen;
+}
+.orange {
+	background-color: orange;
+}
+#topbox1 {
+	height: 50px;
+	width: 50px;
+}
+#bottombox {
+	height: 300px;
+	width: 50px;
+}
+#divider11 {
+	height: 15px;
+	width: 50px;
+}
+#topbox2 {
+	height: 135px;
+	width: 50px;
+}
+#divider12 {
+	height: 15px;
+	width: 50px;
+}
+#bottombox1 {
+	height: 35px;
+	width: 50px;
+}
+#bottombox2 {
+	height: 15px;
+	width: 50px;
+}
+#bottombox3 {
+	height: 235px;
+	width: 50px;
+}
